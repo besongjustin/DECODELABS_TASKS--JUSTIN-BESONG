@@ -9,6 +9,8 @@ This repository contains a full end-to-end data analytics project completed as p
 
 The project is broken into three phases:
 
+| Phase | Tool | Focus |
+|---|---|---|
 | Project 1&2 | Microsoft Excel | Exploratory Data Analysis (EDA) |
 | Project 3 | SQL Server (SSMS) | Data Cleaning & SQL Analysis |
 | Project 4 | Power BI | Data Visualization & Dashboard |
@@ -232,4 +234,7 @@ Total Products = DISTINCTCOUNT('SalesRaw'[Product])
 👤 Author
 **Besong Justin**
 - LinkedIn: [linkedin.com/in/besong-justin](https://www.linkedin.com/in/justinbesong/)
+- Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
+**Besong Justin**
+- LinkedIn: [linkedin.com/in/besong-justin](https://linkedin.com/in/besong-justin)
 - Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
