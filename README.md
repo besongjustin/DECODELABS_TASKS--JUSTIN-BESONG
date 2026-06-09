@@ -235,6 +235,3 @@ Total Products = DISTINCTCOUNT('SalesRaw'[Product])
 **Besong Justin**
 - LinkedIn: [linkedin.com/in/besong-justin](https://www.linkedin.com/in/justinbesong/)
 - Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
-**Besong Justin**
-- LinkedIn: [linkedin.com/in/besong-justin](https://linkedin.com/in/besong-justin)
-- Twitter/X: [@Justin_analyst](https://twitter.com/Justin_analyst)
